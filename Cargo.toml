@@ -2,7 +2,7 @@
 name = "op-alloy-flz"
 description = "Tiny FastLZ compression library"
 
-version = "0.12.0"
+version = "0.13.0"
 edition = "2024"
 rust-version = "1.85"
 authors = ["Alloy Contributors"]
